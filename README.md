@@ -15,7 +15,7 @@ Kevin Santos Marques
 
 1 - Abra o terminal no seu computador. <br/>
 2 - Use o comando cd nome_da_pasta para navegar até o diretório onde os arquivos do projeto estão localizados.<br/>
-3 - Execute o comando git clone https://github.com/AMarthur17/Projeto_Leda para clonar o repositório do projeto.<br/>
+3 - Execute o comando git clone [https://github.com/AMarthur17/Projeto_Leda](https://github.com/kevaut/Projeto_LEDA_2024_2) para clonar o repositório do projeto.<br/>
 4 - Navegue até a pasta do projeto com o comando cd projeto_LEDA.<br/>
 5 - Compile o código usando o comando javac Main.java.<br/>
 6 - Após a compilação, execute java Main no terminal.<br/>

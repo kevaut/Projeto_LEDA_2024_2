@@ -1,6 +1,6 @@
 # Bolsa de Valores Bovespa 1994-2020
 
-- Projeto Laboratório de Estrutura de Dados
+Projeto Laboratório de Estrutura de Dados
 
 Professor:<br/>
 Fábio Luiz Leite Júnior
@@ -11,7 +11,7 @@ Ascendino Martins de Azevedo Neto<br/>
 Kevin Santos Marques
 
 
-- Instrunções
+- Instruções
 
 1 - Abra o terminal no seu computador. <br/>
 2 - Use o comando cd nome_da_pasta para navegar até o diretório onde os arquivos do projeto estão localizados.<br/>
